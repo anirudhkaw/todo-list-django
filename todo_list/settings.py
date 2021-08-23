@@ -126,7 +126,7 @@ STATIC_URL = '/static/'
 
 
 
-]
+
 
 
 
